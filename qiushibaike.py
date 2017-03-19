@@ -1,6 +1,8 @@
 #coding=utf8
 
-import urllib,urllib2
+
+import urllib
+import urllib2
 import re
 import time
 # 核心代码
